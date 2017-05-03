@@ -1,5 +1,5 @@
 # RtmpPublisher
-___ This tool is part of my storm project(lage scale distribute face detection system), as it cannot be open source, I contribute this userful tool on github.  ___
+_ This tool is part of my storm project(lage scale distribute face detection system), as it cannot be open source, I contribute this userful tool on github.  _
 
 ### A simple stream video grabber and rtmp publisher
 It use FFmpeg to grab and publish by [JavaCV](https://github.com/bytedeco/javacv)
